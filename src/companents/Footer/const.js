@@ -1,0 +1,1 @@
+export const footerConst='footer title'
